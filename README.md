@@ -1,13 +1,13 @@
 # Python e Mercado Financeiro: Exemplos e Exercícios Resolvidos
 Este repositório contém todos os exemplos e exercícios resolvidos do livro Python e Mercado Financeiro: Programação Para Estudantes, Investidores e Analistas.
 
-<img src="https://storage.blucher.com.br/book/galery/3D_RGB_Python_e_mercado_financeiro.png" width="300">
 
 Este repositório contém exemplos e exercícios resolvidos do livro "Python e Mercado Financeiro: Programação Para Estudantes, Investidores e Analistas".
 
 ## Sobre o Livro
 
-[![Capa do Livro](https://link_para_sua_imagem_da_capa.jpg)](https://www.amazon.com.br/link_para_o_livro)
+[![Capa do Livro](<img src="https://storage.blucher.com.br/book/galery/3D_RGB_Python_e_mercado_financeiro.png" width="300">
+)](https://www.amazon.com.br/link_para_o_livro)
 
 **Título:** Python e Mercado Financeiro: Programação Para Estudantes, Investidores e Analistas
 **Autor:** Marco Antonio Leonel Caetano
