@@ -18,7 +18,7 @@ O livro "Python e Mercado Financeiro" é uma referência essencial para quem des
 
 ## Conteúdo
 
-- [Capítulo 1: Introdução à Programação em Python](capitulo1/)
+- [CAPÍTULO 1 - PRINCÍPIOS DE PROGRAMAÇÃO](capitulo1/)
 - [Capítulo 2: Análise de Dados Financeiros](capitulo2/)
 - [Capítulo 3: Estratégias de Investimento](capitulo3/)
 - [Capítulo 4: Visualização de Dados Financeiros](capitulo4/)
