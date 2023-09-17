@@ -31,13 +31,3 @@ Para acessar os exemplos e exercícios resolvidos de cada capítulo, basta naveg
 ## Contribuição
 
 Se você gostaria de contribuir para este repositório, sinta-se à vontade para criar problemas (issues) ou enviar pull requests com melhorias, correções ou novos exemplos.
-
-## Licença
-
-Este projeto é licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
-
----
-
-**Nota:** Certifique-se de substituir os links e informações acima pelos reais links da capa do livro, do autor e da Amazon, além de ajustar o conteúdo das pastas e as instruções para contribuição de acordo com suas necessidades.
-
-Boa sorte com seu repositório e seu estudo do mercado financeiro com Python!
