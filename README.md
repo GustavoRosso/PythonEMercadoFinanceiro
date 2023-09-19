@@ -15,19 +15,19 @@ O livro "Python e Mercado Financeiro" é uma referência essencial para quem des
 
 ## Conteúdo
 
-- [Capítulo 1 - Princípios de Programação](capitulo1/)
-- [Capítulo 2 - Análise de Dados Financeiros](capitulo2/)
-- [Capítulo 3 - Estratégias de Investimento](capitulo3/)
-- [Capítulo 4 - Visualização de Dados Financeiros](capitulo4/)
-- [Capítulo 5 - Programando Funções](capitulo5/)
-- [Capítulo 6 - A Dinâmica do Array](capitulo6/)
-- [Capítulo 7 - As Bibliotecas Time e Datetime](capitulo7/)
-- [Capítulo 8 - A Biblioteca Pandas](capitulo8/)
-- [Capítulo 9 - Finanças E Python](capitulo9/)
-- [Capítulo 10 - Datareader e Análises com Yahoo! Finance](capitulo10/)
-- [Capítulo 11 - Processamento em Paralelo](capitulo11/)
-- [Capítulo 12 - Google Trends E Mercado Financeiro](capitulo12/)
-- [Capítulo 13 - Inteligência Artificial No Google](capitulo1/)
+- [Capítulo 1 - Princípios de Programação](https://github.com/GustavoRosso/PythonEMercadoFinanceiro/blob/main/CAP%C3%8DTULO_1_PRINC%C3%8DPIOS_DE_PROGRAMA%C3%87%C3%83O.ipynb)
+- [Capítulo 2 - Análise de Dados Financeiros](https://github.com/GustavoRosso/PythonEMercadoFinanceiro/blob/main/CAP%C3%8DTULO_2_ITERA%C3%87%C3%83O_E_DECIS%C3%83O.ipynb)
+- [Capítulo 3 - Estratégias de Investimento](https://github.com/GustavoRosso/PythonEMercadoFinanceiro/blob/main/CAP%C3%8DTULO_3_EXPLORA%C3%87%C3%83O_A_ESTAT%C3%8DSTICA_NO_MERCADO.ipynb)
+- [Capítulo 4 - Visualização de Dados Financeiros](https://github.com/GustavoRosso/PythonEMercadoFinanceiro/blob/main/CAP%C3%8DTULO_4_GR%C3%81FICOS_PARA_AN%C3%81LISES_E_OPERA%C3%87%C3%95ES.ipynb)
+- [Capítulo 5 - Programando Funções](https://github.com/GustavoRosso/PythonEMercadoFinanceiro/blob/main/CAP%C3%8DTULO_5_PROGRAMANDO_FUN%C3%87%C3%95ES.ipynb)
+- [Capítulo 6 - A Dinâmica do Array](https://github.com/GustavoRosso/PythonEMercadoFinanceiro/blob/main/CAP%C3%8DTULO_6_A_DIN%C3%83MICA_DO_ARRAY.ipynb)
+- [Capítulo 7 - As Bibliotecas Time e Datetime](https://github.com/GustavoRosso/PythonEMercadoFinanceiro/blob/main/CAP%C3%8DTULO_7_AS_BIBLIOTECAS_TIME_E_DATETIME.ipynb)
+- [Capítulo 8 - A Biblioteca Pandas](https://github.com/GustavoRosso/PythonEMercadoFinanceiro/blob/main/CAP%C3%8DTULO_8_A_BIBLIOTECA_PANDAS.ipynb)
+- [Capítulo 9 - Finanças E Python](https://github.com/GustavoRosso/PythonEMercadoFinanceiro/blob/main/CAP%C3%8DTULO_9_FINAN%C3%87AS_E_PYTHON.ipynb)
+- [Capítulo 10 - Datareader e Análises com Yahoo! Finance](https://github.com/GustavoRosso/PythonEMercadoFinanceiro/blob/main/CAP%C3%8DTULO_10_DATAREADER_E_AN%C3%81LISES_COM_YAHOO!_FINANCE.ipynb)
+- [Capítulo 11 - Processamento em Paralelo](https://github.com/GustavoRosso/PythonEMercadoFinanceiro/blob/main/CAP%C3%8DTULO_11_PROCESSAMENTO_EM_PARALELO.ipynb)
+- [Capítulo 12 - Google Trends E Mercado Financeiro](https://github.com/GustavoRosso/PythonEMercadoFinanceiro/blob/main/CAP%C3%8DTULO_12_GOOGLE_TRENDS_E_MERCADO_FINANCEIRO.ipynb)
+- [Capítulo 13 - Inteligência Artificial No Google](https://github.com/GustavoRosso/PythonEMercadoFinanceiro/blob/main/CAP%C3%8DTULO_13_INTELIG%C3%8ANCIA_ARTIFICIAL_NO_GOOGLE.ipynb)
 
 ## Como Usar
 
