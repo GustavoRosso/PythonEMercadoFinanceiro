@@ -1,5 +1,6 @@
 # Python e Mercado Financeiro: Exemplos e Exercícios Resolvidos
-Este repositório contém todos os dados, exemplos e exercícios resolvidos do livro "Python e Mercado Financeiro: Programação Para Estudantes, Investidores e Analistas".
+
+Este repositório contém todos os dados, exemplos e exercícios resolvidos por mim com base no livro "Python e Mercado Financeiro: Programação Para Estudantes, Investidores e Analistas". Quero deixar claro que os códigos presentes neste repositório foram desenvolvidos independentemente por mim e não são diretamente fornecidos, endossados ou revisados pelo autor do livro ou pela editora.
 
 ## Sobre o Livro
 
@@ -9,7 +10,9 @@ Este repositório contém todos os dados, exemplos e exercícios resolvidos do l
 
 **Autor:** Marco Antonio Leonel Caetano
 
-**Link para Compra:** <a target="_blank" href="https://www.amazon.com.br/b?_encoding=UTF8&tag=gustavorosso-20&linkCode=ur2&linkId=b5b91d0717eef51c0c232edad85c4f9c&camp=1789&creative=9325&node=7872854011">Python e Mercado Financeiro</a>
+**Editora:** Blucher; 1ª edição (21 maio 2021) - https://www.blucher.com.br/
+
+**Link para Compra:** <a target="_blank" href="https://www.amazon.com.br/gp/search?ie=UTF8&tag=gustavorosso-20&linkCode=ur2&linkId=f1e271cfc2549b0b16268c131bf693c7&camp=1789&creative=9325&index=books&keywords=Python e Mercado Financeiro: Programação Para Estudantes, Investidores e Analistas ">Amazon</a>
 
 O livro "Python e Mercado Financeiro" é uma referência essencial para quem deseja aprender a utilizar Python para análise e visualização de dados financeiros, bem como para desenvolver estratégias de investimento automatizadas. Este repositório foi criado para acompanhar o livro e fornecer exemplos práticos, exercícios resolvidos e recursos adicionais.
 
@@ -36,3 +39,6 @@ Para acessar os exemplos e exercícios resolvidos de cada capítulo, basta naveg
 ## Contribuição
 
 Se você gostaria de contribuir para este repositório, sinta-se à vontade para criar problemas (issues) ou enviar pull requests com melhorias, correções ou novos exemplos.
+
+## Nota de Responsabilidade
+Os códigos fornecidos aqui são para fins educacionais e de aprendizado. Embora eu tenha me esforçado para garantir que as soluções dos exercícios sejam precisas e eficazes, não posso garantir a sua correção em todas as situações. Portanto, recomenda-se usar esses códigos como referência e como ponto de partida para suas próprias explorações e projetos.
